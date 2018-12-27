@@ -17,14 +17,14 @@
 - If all nine squares are filled and neither player has three in a row, the game is a draw.
 
 ## Run Application
-jacvac MainTicTacToe
+javac MainTicTacToe
 
 java MainTicTacToe
 
 
 ## Run Tests
 
-jacvac MainTicTacToeTest
+javac MainTicTacToeTest
 java MainTicTacToeTest
 
 
